@@ -1,0 +1,50 @@
+h1 {
+    font-size: 50px;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, cyan, yellow);
+    font-family: 'Sunshiney', cursive;
+}
+
+.btn {
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+#footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #0cee59;
+    line-height: 1.5;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+canvas{
+    box-shadow: 3px 5px 30px black;
+    margin-top: 150px;
+    border-radius: 10px;
+}
+
+input {
+    width: 50%;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px black;
+    border: none;
+    color: black;
+    background-image: linear-gradient(to bottom right, #0cee59, yellowgreen);
+    margin-bottom: 20px;
+}
+
+.modelTrained {
+    float: none;
+    background-color: coral;
+    padding: 2px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px;
+}
